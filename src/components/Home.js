@@ -15,7 +15,7 @@ function Home() {
           www.icubetraders.com
         </a>
 
-        <p><a href="mailto:info@icubetraders.com">Send email</a></p>
+        <p><a href="mailto:info@icubetraders.com">Send email to us</a></p>
        
     </div>
   )
