@@ -10,7 +10,7 @@ const MenuButton = styled(Button)({
   color: '#fff',
   margin: '0 10px',
   '&:hover': {
-    backgroundColor: '#1565c0', // Slightly darker shade for hover
+    backgroundColor: '#e76e4b', // Slightly darker shade for hover
   },
   '&.active': {
     backgroundColor: '#0d47a1', // Active state color
